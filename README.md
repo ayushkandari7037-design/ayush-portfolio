@@ -1,4 +1,4 @@
-# 🚀 Modern Portfolio Website for Ashish
+# 🚀 Modern Portfolio Website for Ayush
 ### B.Tech CSE • Full Stack Developer & UI/UX Designer • National & Global Hackathons Winner
 
 A portfolio built with high-performance engineering standards, sleek UI/UX design, and recruiter-focused conversion paths to showcase **Ashish's** software engineering capabilities, hackathon victories, and design prowess.
