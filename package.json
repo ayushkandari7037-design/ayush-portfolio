@@ -1,0 +1,21 @@
+{
+  "name": "fullstack-internship-portfolio",
+  "version": "1.0.0",
+  "description": "High-impact, recruiter-optimized portfolio website for aspiring full stack software engineering interns.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "fullstack",
+    "developer",
+    "internship",
+    "react",
+    "nodejs",
+    "software-engineer"
+  ],
+  "author": "Full Stack Developer",
+  "license": "MIT",
+  "type": "module"
+}
